@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">JL Translate</string>
+<string name="accessibility_description">Only in WhatsApp and WhatsApp Business: shows a KA to EN button. It reads the unsent message when tapped, translates it on device and replaces the draft. It never presses Send. Permission is optional.</string></resources>
